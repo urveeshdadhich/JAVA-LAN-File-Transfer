@@ -5,7 +5,7 @@ A desktop utility built in Java for simple, peer-to-peer file sharing on a local
 
 Its key feature is **zero-configuration discovery** (ZeroConf) — it uses UDP broadcasting to automatically find other users, eliminating the need to manually find and type IP addresses.
 
-🚀 Get Started (Easy Install - Windows)
+🚀 Windows Install
 ---------------------------------------
 
 The easiest way to use this application is with the official installer.
@@ -121,6 +121,7 @@ This command packages the .class file into a single, executable .jar file.
 ----------
 
 This project is licensed under the MIT License.
+
 
 
 
